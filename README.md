@@ -1,4 +1,4 @@
-# Seven_Segment-_Display-ECE23-Project2-
+# Security_System-ECE273-Project2-
 Design a simple security system consisting of a Card Reader and a Key Pad. <br>
 A person may open a door if he or she has a card containing the corresponding code, and enters an authorized key pad code for that card. <br>
 A person is given only two chances to key in the correct code after which an alarm will go off. <br>
